@@ -37,5 +37,11 @@ bin/*
 bin*/
 build*/
 
+# macOS package artifacts
+FLibrary-*-macOS-*.dmg
+FLibrary-*-macOS-*.app.zip
+FLibrary-*-portable-Darwin.zip
+_CPack_Packages/
+
 dark.qrc
 light.qrc
